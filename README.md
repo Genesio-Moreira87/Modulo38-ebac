@@ -1,6 +1,6 @@
 # Modulo38 - EBAC - Analise de Dados na Nuvem - AWS
 
-**Título: Desenvolvimento Solução de Análise de Dados Eficiente na AWS: Uma Jornada com AWS Lambda, Step Functions e EventBridge**
+**Título: Desenvolvendo Solução de Análise de Dados Eficiente na AWS: Uma Jornada com AWS Lambda, Step Functions e EventBridge**
 
 Introdução:
 
